@@ -1,0 +1,59 @@
+@options
+@packages
+-classpath
+'C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.core/2.7.10/org.eclipse.persistence.core-2.7.10.jar;C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.asm/9.2.0/org.eclipse.persistence.asm-9.2.0.jar;C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.antlr/2.7.10/org.eclipse.persistence.antlr-2.7.10.jar;C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa/2.7.10/org.eclipse.persistence.jpa-2.7.10.jar;C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.jpql/2.7.10/org.eclipse.persistence.jpa.jpql-2.7.10.jar;C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.moxy/2.7.10/org.eclipse.persistence.moxy-2.7.10.jar;C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/jakarta.persistence/2.2.3/jakarta.persistence-2.2.3.jar;C:/Users/NGCB03/.m2/repository/org/eclipse/persistence/org.eclipse.persistence.jpa.modelgen.processor/2.7.10/org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar;C:/Users/NGCB03/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar;C:/Users/NGCB03/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'G:/Mi unidad/GITHUB/CURSOS/BACKEND/TODO CODE/04_JAVA/02_POO/PROYECTOS/tiendaAutomoviles/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'G:/Mi unidad/GITHUB/CURSOS/BACKEND/TODO CODE/04_JAVA/02_POO/PROYECTOS/tiendaAutomoviles/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tiendaAutomoviles 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'tiendaAutomoviles 1.0-SNAPSHOT API'
+com.mycompany.tiendaautomoviles.persistencia.exceptions
+com.mycompany.tiendaautomoviles.persistencia
+com.mycompany.tiendaautomoviles.logica
+com.mycompany.tiendaautomoviles.gui
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.core\2.7.10\org.eclipse.persistence.core-2.7.10.jar = 1695193879880
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.asm\9.2.0\org.eclipse.persistence.asm-9.2.0.jar = 1695193879639
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.antlr\2.7.10\org.eclipse.persistence.antlr-2.7.10.jar = 1695193879624
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa\2.7.10\org.eclipse.persistence.jpa-2.7.10.jar = 1695193879895
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.jpql\2.7.10\org.eclipse.persistence.jpa.jpql-2.7.10.jar = 1695193879883
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.moxy\2.7.10\org.eclipse.persistence.moxy-2.7.10.jar = 1695193879901
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\jakarta.persistence\2.2.3\jakarta.persistence-2.2.3.jar = 1695193879824
+C:\Users\NGCB03\.m2\repository\org\eclipse\persistence\org.eclipse.persistence.jpa.modelgen.processor\2.7.10\org.eclipse.persistence.jpa.modelgen.processor-2.7.10.jar = 1695193882084
+C:\Users\NGCB03\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar = 1695664941776
+C:\Users\NGCB03\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1695664942008
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\src\main\java = 1695864861904
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\element-list = 1696159667444
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\serialized-form.html = 1696159667773
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\overview-tree.html = 1696159668343
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\index.html = 1696159668383
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\allclasses-index.html = 1696159668427
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\allpackages-index.html = 1696159668456
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\module-search-index.js = 1696159668483
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\package-search-index.js = 1696159668504
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\type-search-index.js = 1696159668543
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\member-search-index.js = 1696159668566
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\tag-search-index.js = 1696159668589
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\index-all.html = 1696159668624
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\overview-summary.html = 1696159668661
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\help-doc.html = 1696159668696
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\stylesheet.css = 1696159668738
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\script.js = 1696159668785
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\search.js = 1696159668817
+G:\Mi unidad\GITHUB\CURSOS\BACKEND\TODO CODE\04_JAVA\02_POO\PROYECTOS\tiendaAutomoviles\target\site\apidocs\jquery-ui.overrides.css = 1696159669181

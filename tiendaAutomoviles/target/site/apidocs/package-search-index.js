@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.tiendaautomoviles.gui"},{"l":"com.mycompany.tiendaautomoviles.logica"},{"l":"com.mycompany.tiendaautomoviles.persistencia"},{"l":"com.mycompany.tiendaautomoviles.persistencia.exceptions"}];updateSearchResults();

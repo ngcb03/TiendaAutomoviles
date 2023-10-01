@@ -1,0 +1,4 @@
+com.mycompany.tiendaautomoviles.gui
+com.mycompany.tiendaautomoviles.logica
+com.mycompany.tiendaautomoviles.persistencia
+com.mycompany.tiendaautomoviles.persistencia.exceptions
